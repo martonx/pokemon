@@ -1,0 +1,5 @@
+### List all
+GET https://pokeapi.co/api/v2/pokemon
+
+### Get one pokemon details
+GET https://pokeapi.co/api/v2/pokemon/1
